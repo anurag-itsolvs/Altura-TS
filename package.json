@@ -19,7 +19,7 @@
     "@react-navigation/stack": "^6.3.16",
     "@types/react-native-vector-icons": "^6.4.13",
     "react": "18.2.0",
-    "react-hook-form": "^7.43.5",
+    "react-hook-form": "^7.48.2",
     "react-native": "0.71.4",
     "react-native-bootsplash": "^4.5.2",
     "react-native-bouncy-checkbox": "^3.0.7",
