@@ -23,7 +23,7 @@
     "react-native": "0.71.4",
     "react-native-bootsplash": "^4.5.2",
     "react-native-bouncy-checkbox": "^3.0.7",
-    "react-native-gesture-handler": "^2.9.0",
+    "react-native-gesture-handler": "^2.13.4",
     "react-native-keychain": "^8.1.1",
     "react-native-modal": "^13.0.1",
     "react-native-paper": "^5.3.1",
